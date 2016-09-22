@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">UEFA Champions League</string>
+
+    <!-- Groups -->
+    <string-array name="competitionsName">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>H</item>
+    </string-array>
+
+    <!-- Countries -->
+    <string-array name="teamNames">
+
+        <!-- A-->
+        <item>Arsenal</item>
+        <item>Ludogorets</item>
+        <item>Basel</item>
+        <item>PSG</item>
+        <!-- B -->
+        <item>Napoli</item>
+        <item>Beşiktaş</item>
+        <item>Benfica</item>
+        <item>Dynamo Kyiv</item>
+        <!-- C -->
+        <item>Barcelona</item>
+        <item>Manchester City</item>
+        <item>Borussia Mgladbach</item>
+        <item>Celtic</item>
+        <!-- D -->
+        <item>Bayern München</item>
+        <item>Atlético Madrid</item>
+        <item>PSV</item>
+        <item>Rostov</item>
+        <!-- E -->
+        <item>Monaco</item>
+        <item>CSKA Moskva</item>
+        <item>Bayer Leverkusen</item>
+        <item>Tottenham Hotspur</item>
+        <!-- F -->
+        <item>Borussia Dortmund</item>
+        <item>Real Madrid</item>
+        <item>Sporting CP</item>
+        <item>Legia Warszawa</item>
+        <!-- G -->
+        <item>Leicester City</item>
+        <item>København</item>
+        <item>Porto</item>
+        <item>Club Brugge</item>
+        <!-- H -->
+        <item>Olympique Lyonnais</item>
+        <item>Juventus</item>
+        <item>Sevilla</item>
+        <item>Dinamo Zagreb</item>
+    </string-array>
+
+
+</resources>
